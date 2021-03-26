@@ -1,6 +1,6 @@
 # Regex HTTP policy for games that use SSL pinning
 
-*Host matches regex `\b((.*\.)?(epicgames\.(com|net)|riotcdn.net|riotgames.com))` Do Not Inspect*
+*Host matches regex `\b((.*\.)?(epicgames\.(com|net)|riotcdn.net|riotgames.com|pvp.net))` Do Not Inspect*
 
 ## Works with:
  * Fortnite
